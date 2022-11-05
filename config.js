@@ -32,8 +32,8 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "Mikasa Ackerman" //ur sticker watermark author
+global.wm = "Nazuaf X Mikasa" //ur watermark
 
 // Other
 global.sessionName = 'session'
