@@ -5563,7 +5563,7 @@ case 'readqr':{
 case 'swm': case 'stickerwm': case 'wm': case 'take': {  
             let text1 = q.split("|")[0]
             let text2 = q.split("|")[1]
-              if (!isQuotedSticker) return m.reply(`Reply to a sticker with caption ext|text\n\nExample: ${prefix + command} Cheems|Xeon`)   
+              if (!isQuotedSticker) return m.reply(`Reply to a sticker with caption ext|text\n\nExample: ${prefix + command} Mikasa|F`)   
               if (!text1) return m.reply(`Example! : ${order + ' ' + `Cheems|Xeon`}`)    
               if (!text2) return m.reply(`Example! : ${order + ' ' + `Cheems|Xeon`}`)
                 XeonBotInc.sendMessage(from, { react: { text: "â±ï¸", key: m.key }})
