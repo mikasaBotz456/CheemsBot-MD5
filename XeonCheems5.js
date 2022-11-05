@@ -5924,7 +5924,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 						]
 const listMessage = {
   text: "Please choose the menu",
-  footer: `ã€Œ${botname}ã€\nðŸ“YouTube: ${websitex}\nðŸœScript: ${botscript}`,
+  footer: `ã€Œ${botname}ã€\nðŸ“Instagram: ${websitex}\nðŸœScript: ${botscript}`,
   title: `Hi ðŸ‘‹ ${pushname}`,
   buttonText: "Menu",
   sections
