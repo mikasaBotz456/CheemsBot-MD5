@@ -995,7 +995,7 @@ Type *give up* to surrender and admit defeat`
             }
             break
 	case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
-teks = `*ã€Œ ${global.botname} Script ã€*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate ðŸœ`
+teks = `*ã€Œ ${global.botname} Script ã€*\n\nInstagram: ${global.websitex}\nGitHub: ${global.botscript}\n\nDont forget to donate ðŸœ`
 let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner ðŸŒº'}, type: 1}
 ]
