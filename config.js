@@ -33,7 +33,7 @@ global.botscript = 'https://instagram.com/arrhmdfauzan_' //script link
 global.themeemoji = "" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Mikasa Ackerman" //ur sticker watermark author
-global.wm = "Nazuaf X Mikasa" //ur watermark
+global.wm = "ig: @arrhmdfauzan_" //ur watermark
 
 // Other
 global.sessionName = 'session'
